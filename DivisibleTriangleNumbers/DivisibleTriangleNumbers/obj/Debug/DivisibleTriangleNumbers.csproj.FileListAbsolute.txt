@@ -1,0 +1,7 @@
+C:\Users\kcrouse\source\repos\DivisibleTriangleNumbers\DivisibleTriangleNumbers\bin\Debug\DivisibleTriangleNumbers.exe.config
+C:\Users\kcrouse\source\repos\DivisibleTriangleNumbers\DivisibleTriangleNumbers\bin\Debug\DivisibleTriangleNumbers.exe
+C:\Users\kcrouse\source\repos\DivisibleTriangleNumbers\DivisibleTriangleNumbers\bin\Debug\DivisibleTriangleNumbers.pdb
+C:\Users\kcrouse\source\repos\DivisibleTriangleNumbers\DivisibleTriangleNumbers\obj\Debug\DivisibleTriangleNumbers.csprojResolveAssemblyReference.cache
+C:\Users\kcrouse\source\repos\DivisibleTriangleNumbers\DivisibleTriangleNumbers\obj\Debug\DivisibleTriangleNumbers.csproj.CoreCompileInputs.cache
+C:\Users\kcrouse\source\repos\DivisibleTriangleNumbers\DivisibleTriangleNumbers\obj\Debug\DivisibleTriangleNumbers.exe
+C:\Users\kcrouse\source\repos\DivisibleTriangleNumbers\DivisibleTriangleNumbers\obj\Debug\DivisibleTriangleNumbers.pdb

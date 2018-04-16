@@ -1,0 +1,7 @@
+C:\Users\kcrouse\source\repos\SmallestMultiple\SmallestMultiple\bin\Debug\SmallestMultiple.exe.config
+C:\Users\kcrouse\source\repos\SmallestMultiple\SmallestMultiple\bin\Debug\SmallestMultiple.exe
+C:\Users\kcrouse\source\repos\SmallestMultiple\SmallestMultiple\bin\Debug\SmallestMultiple.pdb
+C:\Users\kcrouse\source\repos\SmallestMultiple\SmallestMultiple\obj\Debug\SmallestMultiple.csprojResolveAssemblyReference.cache
+C:\Users\kcrouse\source\repos\SmallestMultiple\SmallestMultiple\obj\Debug\SmallestMultiple.csproj.CoreCompileInputs.cache
+C:\Users\kcrouse\source\repos\SmallestMultiple\SmallestMultiple\obj\Debug\SmallestMultiple.exe
+C:\Users\kcrouse\source\repos\SmallestMultiple\SmallestMultiple\obj\Debug\SmallestMultiple.pdb

@@ -1,0 +1,7 @@
+C:\Users\kcrouse\source\repos\LookingAtaGrid\LookingAtaGrid\bin\Debug\LookingAtaGrid.exe.config
+C:\Users\kcrouse\source\repos\LookingAtaGrid\LookingAtaGrid\bin\Debug\LookingAtaGrid.exe
+C:\Users\kcrouse\source\repos\LookingAtaGrid\LookingAtaGrid\bin\Debug\LookingAtaGrid.pdb
+C:\Users\kcrouse\source\repos\LookingAtaGrid\LookingAtaGrid\obj\Debug\LookingAtaGrid.csprojResolveAssemblyReference.cache
+C:\Users\kcrouse\source\repos\LookingAtaGrid\LookingAtaGrid\obj\Debug\LookingAtaGrid.csproj.CoreCompileInputs.cache
+C:\Users\kcrouse\source\repos\LookingAtaGrid\LookingAtaGrid\obj\Debug\LookingAtaGrid.exe
+C:\Users\kcrouse\source\repos\LookingAtaGrid\LookingAtaGrid\obj\Debug\LookingAtaGrid.pdb

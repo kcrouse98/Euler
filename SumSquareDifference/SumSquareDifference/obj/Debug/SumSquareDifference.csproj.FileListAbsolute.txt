@@ -1,0 +1,7 @@
+C:\Users\kcrouse\source\repos\SumSquareDifference\SumSquareDifference\bin\Debug\SumSquareDifference.exe.config
+C:\Users\kcrouse\source\repos\SumSquareDifference\SumSquareDifference\bin\Debug\SumSquareDifference.exe
+C:\Users\kcrouse\source\repos\SumSquareDifference\SumSquareDifference\bin\Debug\SumSquareDifference.pdb
+C:\Users\kcrouse\source\repos\SumSquareDifference\SumSquareDifference\obj\Debug\SumSquareDifference.csprojResolveAssemblyReference.cache
+C:\Users\kcrouse\source\repos\SumSquareDifference\SumSquareDifference\obj\Debug\SumSquareDifference.csproj.CoreCompileInputs.cache
+C:\Users\kcrouse\source\repos\SumSquareDifference\SumSquareDifference\obj\Debug\SumSquareDifference.exe
+C:\Users\kcrouse\source\repos\SumSquareDifference\SumSquareDifference\obj\Debug\SumSquareDifference.pdb
