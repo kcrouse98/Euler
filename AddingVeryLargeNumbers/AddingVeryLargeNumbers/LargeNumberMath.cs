@@ -56,6 +56,7 @@ namespace AddingVeryLargeNumbers
                 else
                 {
                     // If we are done, we just add the full number
+                    // New Comments
                     strResult = Sum.ToString() + strResult;
                 }
             }
